@@ -2,17 +2,17 @@
 
 ## 👨‍🏫 Autores
 
-**Camilo Vega Barbosa**
-- Profesor Magistral
-- Consultor en Inteligencia Artificial
-- [LinkedIn](https://www.linkedin.com/in/camilo-vega-169084b1/)
-- Email: jc.vega611@uniandes.edu.co
-
 **Daniel Aguirre Salamanca**
-- Asistente de Docencia
+- Profesor Magistral
 - Científico de Datos Senior & MSc Computing Engineering 
 - [LinkedIn](https://www.linkedin.com/in/daniel-aguirre-salamanca/)
 - Email: ed.aguirre@uniandes.edu.co
+
+**Juan Camilo Prieto**
+- Asistente de Docencia
+- Ingeniero de datos
+- [LinkedIn](https://www.linkedin.com/in/juan-camilo-prieto-av/)
+- Email: jc.prietoa@uniandes.edu.co
 
 ## 📚 Descripción del Curso
 
